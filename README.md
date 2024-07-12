@@ -1,1 +1,1 @@
- live site : https://tickytacko.netlify.app
+ live site : https://ticktacko.netlify.app
